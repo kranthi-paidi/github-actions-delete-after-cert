@@ -6,7 +6,7 @@
 
 This repository contains GitHub Actions workflows that are known to be:
 - **Dangerous**: May perform destructive operations
-- **Poorly written**: Does not follow best practices or security guidelines
+- **Poorly written**: Do not follow best practices or security guidelines
 - **Not recommended for production use**
 
 **USE AT YOUR OWN RISK!**
